@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7be7c658-2a80-4373-8d9a-2a39eb782568)# Java Unit Testing with JUnit 5
+# Java Unit Testing with JUnit 5
 
 ## 1.Mô tả bài tập
   Sinh viên dùng ChatGPT để yêu cầu một bài tập về kiểm thử đơn vị với Java
