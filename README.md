@@ -1,4 +1,21 @@
-# Kiểm thử đơn vị với Java
+# Kiem-thu-don-vi-Java
+Kiểm thử đơn vị trong Java với các trường hợp kiểm tra chức năng cơ bản và nâng cao.
+
+## Giới thiệu
+Dự án này cung cấp các bài kiểm thử đơn vị để đảm bảo các chức năng trong chương trình Java hoạt động chính xác. Các bài kiểm thử được thiết kế để kiểm tra tính chính xác và hiệu năng của các hàm trong ứng dụng.
+
+## Cài đặt
+Để sử dụng dự án này, hãy làm theo các bước dưới đây:
+
+1. **Yêu cầu hệ thống**:
+   - Java 17 hoặc cao hơn.
+   - Maven 3.8 hoặc cao hơn.
+   - IDE hỗ trợ Java (IntelliJ IDEA, Eclipse, hoặc NetBeans).
+
+2. **Clone dự án**:
+   ```bash
+   git clone https://github.com/tranphucnguyen/Kiem-thu-don-vi-Java.git
+
 
 ## 1.Mô tả bài tập
   Sinh viên dùng ChatGPT để yêu cầu một bài tập về kiểm thử đơn vị với Java
