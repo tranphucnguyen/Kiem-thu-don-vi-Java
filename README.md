@@ -24,10 +24,10 @@ Dự án này cung cấp các bài kiểm thử đơn vị để đảm bảo c�
   
   Chú ý: chia sẻ ChatGPT mã đã hỏi ở trên đưa vào readme.md 
 ## 2.Các bài kiểm thử:
-### Cộng: Kiểm tra với các giá trị dương, âm và biên.
-### Trừ: Kiểm tra với các giá trị âm và dương.
-### Nhân: Kiểm tra với các giá trị dương, âm và biên.
-### Chia: Kiểm tra với các trường hợp dương, âm, chia cho 0 và các giá trị biên.
+- Cộng: Kiểm tra với các giá trị dương, âm và biên.
+- Trừ: Kiểm tra với các giá trị âm và dương.
+- Nhân: Kiểm tra với các giá trị dương, âm và biên.
+- Chia: Kiểm tra với các trường hợp dương, âm, chia cho 0 và các giá trị biên.
 ## 3.Mã nguồn
 ### Calculator.java
 ![image](https://github.com/user-attachments/assets/e611c698-5fe7-4127-b477-1259ccf18945)
