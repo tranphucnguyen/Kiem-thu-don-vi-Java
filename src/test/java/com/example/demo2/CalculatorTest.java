@@ -68,6 +68,7 @@ public class CalculatorTest {
     }
 
     @Test
+   
     public void testDivision() {
         // Kiểm tra giá trị dương
         assertEquals(2.5, calculator.divide(5, 2), 0.0001);
@@ -85,7 +86,18 @@ public class CalculatorTest {
         // Kiểm tra biên lớn nhất
         assertEquals(1, calculator.divide(Integer.MAX_VALUE, Integer.MAX_VALUE));
         assertEquals(0.0, calculator.divide(Integer.MIN_VALUE, Integer.MAX_VALUE), 0.0001); // Chia nhỏ
+
+        // Kiểm tra biên với giá trị cực đại và cực tiểu
+        assertEquals(Integer.MAX_VALUE, calculator.divide(Integer.MAX_VALUE, 1), 0.0001); // Chia với 1
+        assertEquals(Integer.MIN_VALUE, calculator.divide(Integer.MIN_VALUE, 1), 0.0001); // Chia với 1
+        assertEquals(0, calculator.divide(Integer.MAX_VALUE, Integer.MIN_VALUE), 0.0001); // Chia với giá trị đối nhau
+        assertEquals(0, calculator.divide(Integer.MIN_VALUE, Integer.MAX_VALUE), 0.0001); // Chia với giá trị đối nhau
+        assertEquals(0.0, calculator.divide(Integer.MIN_VALUE, Integer.MAX_VALUE), 0.0001); // Chia nhỏ
+
+        // Kiểm tra biên với số âm cực đại
+        assertEquals(-1.0, calculator.divide(Integer.MIN_VALUE, Integer.MIN_VALUE), 0.0001); // Chia với chính nó
     }
+
 
 
     

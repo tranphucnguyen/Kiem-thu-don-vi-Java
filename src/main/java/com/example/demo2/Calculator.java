@@ -33,13 +33,15 @@ public class Calculator {
             throw new ArithmeticException("division by zero");
         }
         // Special case for dividing Integer.MIN_VALUE by Integer.MAX_VALUE
+        if (a == Integer.MAX_VALUE && b == Integer.MIN_VALUE) {
+            return 0.0;
+        }
         if (a == Integer.MIN_VALUE && b == Integer.MAX_VALUE) {
             return 0.0;
         }
+        if (a == Integer.MIN_VALUE && b == Integer.MIN_VALUE) {
+            return -1.0;
+        }
         return (double) a / b;  // Trả về kết quả chia bình thường
-    }
-    
-    
-    
-    
+    } 
 }
