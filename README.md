@@ -33,7 +33,7 @@ Dự án này cung cấp các bài kiểm thử đơn vị để đảm bảo c�
 ![image](https://github.com/user-attachments/assets/ac95a5de-68df-442d-ae56-467232671701)
 
 ## 3.Kết quả thực nghiệm
-![image](https://github.com/user-attachments/assets/6ea27b76-a2de-46df-9d03-39e9fc957ebd)
+![image](https://github.com/user-attachments/assets/5d530fba-0f7b-457c-82be-b1bf1801e59e)
 ## 4.Đường dẫn Chat gpt
 https://chatgpt.com/share/677b56e5-8c04-8006-853a-4bdf3ba309f0
 ### Hướng dẫn bổ sung:
