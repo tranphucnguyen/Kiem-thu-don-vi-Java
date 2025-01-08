@@ -68,7 +68,6 @@ public class CalculatorTest {
     }
 
     @Test
-   
     public void testDivision() {
         // Kiểm tra giá trị dương
         assertEquals(2.5, calculator.divide(5, 2), 0.0001);
@@ -98,10 +97,6 @@ public class CalculatorTest {
         assertEquals(-1.0, calculator.divide(Integer.MIN_VALUE, Integer.MIN_VALUE), 0.0001); // Chia với chính nó
     }
 
-
-
-    
-
     @Test
     public void testEdgeCases() {
         // Kiểm tra số lớn
@@ -115,6 +110,5 @@ public class CalculatorTest {
         // Kiểm tra với số nhỏ nhất
         assertEquals(0, calculator.add(Integer.MIN_VALUE, Integer.MAX_VALUE));
         assertEquals(0, calculator.add(Integer.MIN_VALUE, Integer.MAX_VALUE)); // Sửa lại để kết quả chính xác là 0
-
     }
 }
