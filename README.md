@@ -33,7 +33,10 @@ Dự án này cung cấp các bài kiểm thử đơn vị để đảm bảo c�
 ![image](https://github.com/user-attachments/assets/6ea27b76-a2de-46df-9d03-39e9fc957ebd)
 ## 4.Đường dẫn Chat gpt
 https://chatgpt.com/share/677b56e5-8c04-8006-853a-4bdf3ba309f0
-
+### Hướng dẫn bổ sung:
+- **Thay thế "BIT220123@st.cmcu.edu.vn"** bằng email của bạn.
+- **Thêm mô tả chi tiết hơn** nếu dự án có tính năng hoặc phần mở rộng đặc biệt.
+- **Cập nhật danh sách kiểm thử** khi hoàn thành các trường hợp mới. 
 
 
 
