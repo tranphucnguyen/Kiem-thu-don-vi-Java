@@ -30,12 +30,12 @@ Dự án này cung cấp các bài kiểm thử đơn vị để đảm bảo c�
 - Chia: Kiểm tra với các trường hợp dương, âm, chia cho 0 và các giá trị biên.
 ## 3.Mã nguồn
 ### Calculator.java
-![image](https://github.com/user-attachments/assets/e611c698-5fe7-4127-b477-1259ccf18945)
+![image](https://github.com/user-attachments/assets/7ad1e3cc-18f1-45ae-8656-e9b0cd74d7bb)
+
 
 ### CalculatorTest.java
-![image](https://github.com/user-attachments/assets/935eecb9-5644-49d7-85b3-d7ef636c22a7)
-![image](https://github.com/user-attachments/assets/ac95a5de-68df-442d-ae56-467232671701)
-
+![image](https://github.com/user-attachments/assets/994ecacc-bee2-433e-8251-14488be39ae9)
+![image](https://github.com/user-attachments/assets/1215d3fb-8973-4dc3-8c0f-903012e88c7a)
 ## 4.Kết quả thực nghiệm
 ![image](https://github.com/user-attachments/assets/7ec7df95-48cc-4e48-a889-fac353738450)
 
