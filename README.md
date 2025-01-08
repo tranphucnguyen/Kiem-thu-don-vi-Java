@@ -26,9 +26,12 @@ Dự án này cung cấp các bài kiểm thử đơn vị để đảm bảo c�
 
 ## 2.Mã nguồn
 ### Calculator.java
-![image](https://github.com/user-attachments/assets/6b96e90f-8d69-4b37-b360-792d09d406f4)
+![image](https://github.com/user-attachments/assets/e611c698-5fe7-4127-b477-1259ccf18945)
+
 ### CalculatorTest.java
-![image](https://github.com/user-attachments/assets/b7dda196-b215-4a6f-b111-42137c614fd3)
+![image](https://github.com/user-attachments/assets/935eecb9-5644-49d7-85b3-d7ef636c22a7)
+![image](https://github.com/user-attachments/assets/ac95a5de-68df-442d-ae56-467232671701)
+
 ## 3.Kết quả thực nghiệm
 ![image](https://github.com/user-attachments/assets/6ea27b76-a2de-46df-9d03-39e9fc957ebd)
 ## 4.Đường dẫn Chat gpt
