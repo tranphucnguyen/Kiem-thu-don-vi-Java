@@ -23,8 +23,12 @@ Dự án này cung cấp các bài kiểm thử đơn vị để đảm bảo c�
   Sau đó sinh viên viết mã nguồn, mã kiểm thử đưa lên 1 repo trên GitHub và tạo file readme.md mô tả mã nguồn, mã kiểm thử và kết quả chạy kiểm thử (chụp hình ảnh).
   
   Chú ý: chia sẻ ChatGPT mã đã hỏi ở trên đưa vào readme.md 
-
-## 2.Mã nguồn
+## 2.Các bài kiểm thử:
+### Cộng: Kiểm tra với các giá trị dương, âm và biên.
+### Trừ: Kiểm tra với các giá trị âm và dương.
+### Nhân: Kiểm tra với các giá trị dương, âm và biên.
+### Chia: Kiểm tra với các trường hợp dương, âm, chia cho 0 và các giá trị biên.
+## 3.Mã nguồn
 ### Calculator.java
 ![image](https://github.com/user-attachments/assets/e611c698-5fe7-4127-b477-1259ccf18945)
 
@@ -32,9 +36,9 @@ Dự án này cung cấp các bài kiểm thử đơn vị để đảm bảo c�
 ![image](https://github.com/user-attachments/assets/935eecb9-5644-49d7-85b3-d7ef636c22a7)
 ![image](https://github.com/user-attachments/assets/ac95a5de-68df-442d-ae56-467232671701)
 
-## 3.Kết quả thực nghiệm
+## 4.Kết quả thực nghiệm
 ![image](https://github.com/user-attachments/assets/5d530fba-0f7b-457c-82be-b1bf1801e59e)
-## 4.Đường dẫn Chat gpt
+## 5.Đường dẫn Chat gpt
 https://chatgpt.com/share/677b56e5-8c04-8006-853a-4bdf3ba309f0
 ### Hướng dẫn bổ sung:
 - **Thay thế "BIT220123@st.cmcu.edu.vn"** bằng email của bạn.
